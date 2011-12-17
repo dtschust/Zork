@@ -1,0 +1,84 @@
+Sample Run Through
+
+>IPA1 sample.xml
+You find yourself at the mouth of a cave and decide that in spite of common sense and any sense of self preservation that you're going to go exploring north into it.  It's a little dark, but luckily there are some torches on the wall.
+>e
+Can’t go that way.
+>N
+Error
+>n
+*stumble* need some light...
+>i
+Inventory: empty
+>take torch
+Item torch added to inventory.
+>i
+Inventory: torch
+>n
+A huge cavern surrounds you with a locked door to the north, a chest in the center, and a very dark corner...
+>read torch
+next to a small button it reads "push for big flame"
+>turn on torch
+You activate the torch.
+the torch has erupted into a menacing inferno
+You see a gnome in the dark corner... watching you with its super pointy hat...
+>turn on torch
+You activate the torch.
+the torch has erupted into a menacing inferno
+>n
+lock needs a key... not to mention you don't want to get too close to that side of the room... there's something in that corner...
+>attack gnome with torch
+Error
+>attack gnome with hand
+Error
+>attack gnome with face!
+Error
+>w
+Can’t go that way.
+>read chest
+Error
+>attack chest with torch
+Error
+>open chest
+chest contains explosive.
+>Excellent!
+Error
+>open chest
+chest contains explosive.
+>take explosive
+Item explosive added to inventory.
+>open chest
+chest is empty.
+>i
+Inventory: torch, explosive
+>attack gnome with explosive
+Error
+>read explosive
+turn on for boom :-). Warning!  Keep away from gnomes!
+>turn on explosive
+You activate the explosive.
+you hear ticking...
+>put explosive in chest
+Item explosive added to chest.
+>attack gnome with explosive
+Error
+>take dynamite
+Error
+>take explosive
+Item explosive added to inventory.
+>attack gnome with explosive
+You assault the gnome with the explosive.
+A tiny squeek is uttered from the tiny and, although scary looking, quite innocent creature before it vanishes in a very loud explosion.  Tragic, but you find he was sitting on a key!
+>take key
+Item key added to inventory.
+>drop key
+key dropped.
+>take key
+Item key added to inventory.
+>put key in lock
+Item key added to lock.
+The lock drops off and the door opens
+>n
+You found the exit!
+>open exit
+Game Over

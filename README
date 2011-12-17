@@ -1,0 +1,23 @@
+###################
+# To compile code #
+###################
+
+make all
+
+###################
+# To cleanup code #
+###################
+
+make clean
+
+###################
+# To execute code #
+###################
+
+java Zork [game xml]
+
+######################
+# Sample Walkthrough #
+######################
+(Example inputs can be found in RunThroughResults.txt as to how to beat the sample game)
+java Zork sampleGame.xml
